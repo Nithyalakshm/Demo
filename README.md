@@ -25,5 +25,5 @@ To install the project, follow these steps:
 1. **Clone the repository:**
 
 ```bash
-git clone  https://github.com/chihebkitar/demo.git
+git clone  https://github.com/Nithyalakshm/demo.git
 cd demo
